@@ -21,5 +21,7 @@ Once collected a sufficient ratings from a particular users and can make predict
 
 ![Screenshot 1](https://user-images.githubusercontent.com/89642526/152094081-df409c33-d8cf-4ec7-b2ae-1b85f43dbf48.png)
 
+![Screenshot 2](https://user-images.githubusercontent.com/89642526/152094671-4e6734b1-87b4-4d73-961d-3fc165a9a02d.png)
 
+![Screenshot 3](https://user-images.githubusercontent.com/89642526/152094871-9c1882f7-4387-4462-8f6a-609a18b8dccd.png)
 
