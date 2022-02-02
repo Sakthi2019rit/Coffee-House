@@ -3,7 +3,8 @@ Coffee House Recommendation Service System using Azure Machine Learning Studio
 Project Link : https://gallery.cortanaintelligence.com/Experiment/Coffee-House
 
 Problem Statement: 
-Using a Train-Matchbox recommender to predict a Coffee-House Recommendation System
+
+Using a Train-Matchbox recommender and Score-Matchbox recommender to predict a Coffee-House Recommendation System
 
 Project Description:
 
