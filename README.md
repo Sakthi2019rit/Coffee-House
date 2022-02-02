@@ -18,3 +18,5 @@ I have a three csv files namely
 -Coffee-House-ratings containing UserID, PlaceId and its Ratings.
 
 Once collected a sufficient ratings from a particular users and can make predictions for the new users by the ratings given by the registered users. This will work based on collaborative filtering with a content based approach.
+![Screenshot 1](https://user-images.githubusercontent.com/89642526/152094081-df409c33-d8cf-4ec7-b2ae-1b85f43dbf48.png)
+
