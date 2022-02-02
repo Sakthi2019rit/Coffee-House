@@ -3,8 +3,7 @@ Coffee House Recommendation Service System using Azure Machine Learning Studio
 Project Link : https://gallery.cortanaintelligence.com/Experiment/Coffee-House
 
 Problem Statement: 
-
-Every time people face difficulties in determining the quality of a local business. Local business here refers the coffee house, and it becomes more challenge to choose the coffee house for new users and they may not know the customer services, their beverage quality and the equipment usage and they may not aware of professional staffs who are hired there so we are jumped into a rating system. And how to correctly interpret search requests based on people’s preference is a challenge.
+Using a Train-Matchbox recommender to predict a Coffee-House Recommendation System
 
 Project Description:
 
